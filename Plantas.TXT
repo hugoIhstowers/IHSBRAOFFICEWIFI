@@ -1,0 +1,2 @@
+isFlag	isGeo	isClass	pixel	alpha	Counter	mustCount	Local	Local_Name	Local_floorplan	id_hashcode	id_hashcode_SVG
+True	True	True	1	255	0	0	plantaihs	PlantaIHS	PlantaIHS	577900017	577900017.svg
